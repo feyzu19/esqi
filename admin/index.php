@@ -34,10 +34,9 @@
   <img class="img1" src="../img/slider2c.jpg" alt="Norway" width="1000" height="300">
   <div class="center1">
   <div class="tablo1">
-  
-  
 
-  
+
+
 
 <center>
 <?php
@@ -61,31 +60,31 @@ echo 'Şifre veya Kullanıcı Adı Yanlış. Tekrar Deneyin<br>';
   <tr>
     <td  colspan="2" style="box-shadow:1px 1px 30px black;"  ><p align="center">Üye Girişi</td>
   </tr>
-  
+
   <tr>
     <td>Üye Adı:</td>
     <td >&nbsp;&nbsp;<input type="text" name="kullaniciadi" size="20"></td>
   </tr>
-  
+
   <tr>
     <td  >Şifre:</td>
     <td  >&nbsp;&nbsp;<input type="password" name="sifre" size="20"></td>
   </tr>
-  
+
   <tr>
     <td colspan="2" height="1">
     <p align="center"><input type="submit" class="gonderbuton" value="Giriş"></td>
   </tr>
-  
-  
+
+
 </table>
 </form>
 
 <button class="signpage"><a href="signup">Üye ol</a></button>
-  
-  
-  
- 
+
+
+
+
 </div>
 </div>
 </div>
