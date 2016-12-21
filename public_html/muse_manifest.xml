@@ -1,0 +1,14 @@
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" ftp_hostname="ftp://31.170.164.72" ftp_rootfolder="/public_html" exportTarget="FTP" resolutions="1x" timestamp="1480705320618">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="index.css" crc="3961222698" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index"/>
+    <file name="museutils.js" crc="521960461" ref="index"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <file name="index.html" crc="521704851" mt="1480705237926" redirect="true"/>
+</manifest>
